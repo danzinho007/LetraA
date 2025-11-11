@@ -1,0 +1,43 @@
+AstralHeroes_Oponentes:
+
+31/10 = 3 duelos ( Demon,MagisterLv12 e Shadow )
+
+Nome (Dificuldade)
+
+-------------------------
+DemonsServant (Normal)
+
+Death-AdeptOfDarkness 2/3/14
+Death-Cultist 3/4/15 x2
+Death-Ergodemon 2/3/12 x3
+Death-GreaterDemon 8/8/40
+Death-Lich 5/5/15
+Death-Mummy 1/3/8
+Death-Warlock 3/2/18 x2
+Order-Apprentice 2/1/6
+
+Death-CullTheWeak 2 = Destroi criatura custo 3 ou menor
+Death-DemonicRage = Causa 9 de dano a critura e aumenta o ataque em 5 até o final do turno
+Death-VoidBolt = 4 de dano na criatura inimiga
+
+---------------------------------
+MagisterLv12
+
+Death-Lich 5/5/15
+Life-ElvenPriest 2/3/14
+Life-Leprechaun 1/3/10
+
+Death-CullTheWeak 2 = Destroi criatura custo 3 ou menor
+Death-DemonicRage 1 = Causa 9 de dano na criatura e aumenta o ataque em 5 até o final do turno
+Life-NaturesTouch 2 = Restaura 12 de vida de uma criatura aliada e causa 12 de dano a criatura inimiga oposta a ela
+--------------------------------------------
+ShadowOfNoviceMageLv01
+
+Life-AncientZubr 3/2/20
+Life-Dryad 1/3/10
+Life-Leprechaun 1/3/10
+Life-Timeweaver 3/4/13
+Order-BastionOfOrder 6/0/60
+Order-Paladin 2/4/15
+
+Order-Suppress 1

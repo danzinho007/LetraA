@@ -1,0 +1,17 @@
+Astral_Tournament
+
+Criaturas_e_spells_da_Morte:
+
+Esqueleto
+Zumbi
+Illho
+Deathkeeper
+Demonio
+Fantasma
+Assassino
+Extracao de vida
+Muralha das Almas 
+Lich
+Vampiro
+Extracao de alma 
+Demonio Primario

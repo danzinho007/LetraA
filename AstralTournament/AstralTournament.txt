@@ -1,0 +1,23 @@
+AstralTournament
+
+31/10/2025 = 2derrotas
+
+NewDuelGame
+TournamentGame
+Options
+ViewHelp
+ExitToWindows
+
+Fire-Spell-FireRitual 3
+Fire-WallOfFire 4/0/20
+Fire-Spell-FlameWave 6
+Water-Spell-Cure 1
+Water-Spell-Justice 3
+Air-Faerie 1/3/9
+Air-Spell-ChainLightning 8 DanoGlobal
+Earth-ElfHealer 1/1/11
+Earth-ElfHermit 5/1/14
+Earth-Spell-Rejuvenation 6
+Death-Skeleton 1/3/12
+Death-Spell-Curse 3
+Death-Demon 5/2/15

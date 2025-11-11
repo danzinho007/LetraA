@@ -1,0 +1,33 @@
+AstralTowers
+
+31/10 = 1vitória 2derrotas
+
+Play
+Options
+Help
+Exit
+
+1-Primeira
+2-Segunda evolução
+3-Terceira ..
+etc
+
+1-Fire-TowerOfFire 1
+2-Fire-Flaming Tower 3
+Fire-GoblinWarrior 2/4/12
+Fire-FireStorm 6
+Fire-DemonTrapper 8/3/16
+Ice-IceElemental 2/5/14
+Ice-TowerOfStorms 2/3/20
+Nature-Dryad 4/2/10
+Nature-Rejuvenation 5
+Nature-ForestProtection 5
+Death-Skeleton 1/3/8
+Death-AncientKeeper 4/3/14
+Death-Sacrifice
+Death-Rust 10
+Death-DearkKnight 10/9/30
+Craft-Forge
+Craft-GremlinWorkshop 8/0/17
+Craft-StoneGargoyles 11
+Craft-Colossus 13/10/40

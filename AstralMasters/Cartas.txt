@@ -1,0 +1,30 @@
+AstralMasters
+
+31/10/2025 = 1Vitória 1Derrota
+
+SingleDuel
+League
+Multiplayer
+Options
+Help
+Exit
+
+--Cartas:
+-Air-FaerieApprentice 1/3/8
+1-Retorna criatura aliada pra mão
+-Air-FaerieMage 3/3/11
+-Air-MasterOfTheWind 2/2/10
+-Air-Phoenix 4/5/15 = Morre e volta pra mão
+Air-WallofKnowledge 5/0/15
+Earth-EarthElemental 7/?/50
+Earth-ElfHermit 3/3/16
+Earth-ElvenArcher 2/3/10
+Earth-ElvenPriest 2/1/12
+Earth-ForestSprite 3/1/18
+Fire-GoblinResearcher 3/3/13
+Fire-GoblinWitch 2/4/10
+Fire-Minotaur 4/5/15
+Water-AdeptOfPower 2/2/12
+Water-AstralGuard 3/1/16
+Water-ReeperOfTheCoast 3/3/11
+Water-SpiritOfTheCoast 0/2/7
