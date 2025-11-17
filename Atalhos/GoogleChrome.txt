@@ -1,0 +1,6 @@
+Atalhos_GoogleChrome
+
+1-Alt + F4 = Fecha o navagador
+2-CTRL + Shift + S = Recupera as janelas abertas
+3-CTRL + W = Fecha a aba atual 
+4-
