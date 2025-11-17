@@ -1,0 +1,38 @@
+Todos jogos :
+
+https://www.youtube.com/watch?v=-KHvaPkgvvQ
+
+Total 511 jogos
+
+-Melhores :
+01- 3D-TicTacJoe = Dama
+02- Amidar = FazerQuadrado
+03- ArtilleryDuel = Mira
+04- Barmstorming = AviaoDesviar
+05- BasicMath = Matematica
+06- Basicprogrammimg = Programacao
+07- Basketball = Basquete
+08- Blackjack = Carta
+09- BMX_AirMaster = Bicicleta
+10- Bowling = Boliche
+11- Boxing = Boxe
+12- BrainGames = Memorizacao
+13- Breakout = 
+14- Bridge = Carta
+15- CaliforniaGames = Esportes
+16- CanyonBomber = Tiro
+17- Carnival
+18- Casino = Carta
+19- ChampionshipSoccer = Futebol
+20- Checkers = Dama
+21- ChopperCommand = HelicopteroTiro
+22- CircusAtari = 
+23- Codebreaker = ?
+24- Crackpots = Acao
+25- DemolitionHerby = Quadrado
+26- DicePUzzle = Puzzle
+27- DigDug = Cavar
+28- DonkeyKong = Acao
+29- Dragonfire = Acao
+30- Dragster = Corrida
+31- 
